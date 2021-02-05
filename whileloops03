@@ -1,0 +1,12 @@
+num = int(input("Enter a number"))
+Firstnum = num
+total = Firstnum
+looping = "y"
+
+while
+ num2 = int(input("Enter  a number"))
+num + num2
+ print("Do you want to add another number")
+if num2 = "y"
+ print("Add another number")
+total 2 = num + num2
