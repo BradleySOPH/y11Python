@@ -1,3 +1,6 @@
+#selection005
+#Bradley Smith
+
 weather = str(input("Is it raining?").lower()
 if weather == 'yes':
   print("Is it windy?")
