@@ -1,3 +1,6 @@
+#whileloop05
+#Bradley Smith
+
 compnum=50
 num=int(input("Enter a number"))
 count=1
