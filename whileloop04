@@ -1,3 +1,6 @@
+#whileloop04
+#Bradley Smith
+
 count=0
 more="y"
 while more == "y":
