@@ -1,3 +1,7 @@
+#whileloop02
+#Bradley Smith
+
+
 total = 0
 while total < 5:
   total = int(input("Enter a number"))
