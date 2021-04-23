@@ -1,3 +1,6 @@
+#whileloop03
+#Bradley Smith
+
 num = int(input("Enter a number"))
 Firstnum = num
 total = Firstnum
